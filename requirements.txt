@@ -1,0 +1,11 @@
+python-dateutil==2.6.0
+json
+dateutil.parser
+babel
+flask 
+flask_moment
+flask_sqlalchemy
+logging
+flask_wtf
+forms
+flask_migrate
